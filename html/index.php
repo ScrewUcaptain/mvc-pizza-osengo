@@ -13,8 +13,8 @@
             <ul>
                 
                 <li><a href="#">Panier</a></li>    
-                <li><a href="./carte.html">Carte</a></li>
-                <li><a href="#">Accueil</a></li>              
+                <li><a href="carte.php">Carte</a></li>
+                <li><a href="index.php">Accueil</a></li>              
             </ul>            
         </nav>        
 	  <nav class="menus2">
@@ -22,8 +22,8 @@
 			<ul class="menuDeroulant">
 				<li class="menuBurger">☰</li>  
                 <li><a href="#">Accueil</a></li>
-                <li><a href="./carte.html">Carte</a></li>
-				<li><a href="#">Panier</a></li>	
+                <li><a href="carte.php">Carte</a></li>
+				<li><a href="index.php">Panier</a></li>	
 			</ul> 
 
         </nav>
