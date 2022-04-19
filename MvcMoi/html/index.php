@@ -1,3 +1,7 @@
+<?php 
+require_once "../Controller/Controller.class.php";
+?>
+
 <!doctype html>
 <html lang="fr">
 <head>
